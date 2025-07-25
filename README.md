@@ -1,17 +1,16 @@
 <h1 align="center">Olá! 👋 Eu sou [Seu Nome]</h1>
 
 <p align="center">
-  Estudante | Desenvolvedor Java ☕ | Explorando o mundo do GitHub 🚀
+  Desenvolvedor Java ☕ | Aprendendo Spring Boot 🚀
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudando desenvolvimento com foco em **Java**
-- 🧰 Aprendendo boas práticas de versionamento com **Git e GitHub**
-- 🌱 Em constante evolução no mundo da programação
-- 💬 Sempre aberto a trocar ideias e aprender com a comunidade
+- 🎓 Estudando desenvolvimento back-end com **Java**
+- 🌱 Me aprofundando em **Spring Boot** para criar APIs robustas
+- 💬 Adoro aprender e trocar experiências com a comunidade dev
 
 ---
 
@@ -19,8 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
 </p>
 
 ---
@@ -42,7 +40,7 @@
 ---
 
 <p align="center">
-  📈 Contribuindo um commit por vez!
+  📈 Praticando um commit por vez!
 </p>
 
 <p align="center">
